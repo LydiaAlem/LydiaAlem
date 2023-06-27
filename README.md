@@ -12,9 +12,7 @@
 ---
 Language & Tools:
 <!-- Python -->
-<a href="https://www.python.org/">
-  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="100" height="100">
-</a>
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/d65f20a1-893c-4ac2-805a-de67a82a44d1" alt="Java Logo" width="40" height="40">
 <!-- Java -->
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/913ecc51-a805-4fd2-9d43-4e0ec7eef2a9" alt="Java Logo" width="40" height="40">
 <!-- Assembly (x86-64) -->
