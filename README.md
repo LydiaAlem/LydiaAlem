@@ -9,5 +9,13 @@
 - 📫 How to reach me: alem0046@umn.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading manhwas 💛
+---
+Language & Tools:
+![Python-logo-notext svg](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/76c999bd-9adb-4148-94e4-0591eff49a05)
 
+Software:
+
+
+
+---
 ![LydiaAlem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAlem&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
