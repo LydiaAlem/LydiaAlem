@@ -11,9 +11,34 @@
 - ⚡ Fun fact: I love reading manhwas 💛
 ---
 Language & Tools:
-[![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/)
+<!-- Python -->
+<a href="https://www.python.org/">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="100" height="100">
+</a>
+<!-- Java -->
+<a href="https://www.java.com/">
+  <img src="https://www.example.com/java-logo.png" alt="Java Logo" width="100" height="100">
+</a>
 
+<!-- Assembly (x86-64) -->
+<a href="https://www.assembly.org/">
+  <img src="https://www.example.com/assembly-logo.png" alt="Assembly Logo" width="100" height="100">
+</a>
 
+<!-- Ocaml -->
+<a href="https://ocaml.org/">
+  <img src="https://www.example.com/ocaml-logo.png" alt="OCaml Logo" width="100" height="100">
+</a>
+
+<!-- C -->
+<a href="https://www.cprogramming.com/">
+  <img src="https://www.example.com/c-logo.png" alt="C Logo" width="100" height="100">
+</a>
+
+<!-- C# -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://www.example.com/csharp-logo.png" alt="C# Logo" width="100" height="100">
+</a>
 
 Software:
 
