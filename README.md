@@ -16,10 +16,12 @@
 ---
 **Reach me on:**
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="gmail Logo" width="40" height="40"> 
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1bfc1009-37bd-4c12-a248-26dca92bf7b7" alt="gmail Logo" width="40" height="40"> 
+
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="linkedIN Logo" width="40" height="40"> 
 
 
 
-
+---
 
 ![LydiaAlem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAlem&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
