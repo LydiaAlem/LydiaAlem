@@ -16,9 +16,15 @@
 ---
 **Reach me on:**
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1bfc1009-37bd-4c12-a248-26dca92bf7b7" alt="gmail Logo" width="53" height="40"> 
+<a href="mailto:alem0046@umn.edu?subject=Link%20to%20Gmail&body=Here's%20the%20link%20to%20Gmail:%20https://www.gmail.com">
+  Send Gmail link to my email 
+  <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1bfc1009-37bd-4c12-a248-26dca92bf7b7" alt="Gmail Logo" width="53" height="40">
+</a>
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="linkedIN Logo" width="55" height="55"> 
+<a href="https://www.linkedin.com/in/lydia-alem-37b831260/">
+  <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="LinkedIn Logo" width="55" height="55">
+</a>
+
 
 
 
