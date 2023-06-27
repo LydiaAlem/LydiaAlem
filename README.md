@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I love reading manhwas 💛
 ---
 Language & Tools:
-<img width="25" height="25" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/76c999bd-9adb-4148-94e4-0591eff49a05">
+[![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/)
+
 
 
 Software:
