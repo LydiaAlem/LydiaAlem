@@ -11,7 +11,9 @@
 - ⚡ Fun fact: I love reading manhwas 💛
 
 ---
-**Languages:** <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/d65f20a1-893c-4ac2-805a-de67a82a44d1" alt="Python Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/a46cd09b-efb3-4411-a9da-69f65dd63533" alt="Java Logo" width="40" height="50"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/47094296-87e7-48ca-9993-211e8547a05c" alt="Assembly Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/efdf0aa2-ed31-4fcf-9788-867d56973a57" alt="OCaml Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1" alt="C Logo" width="45" height="50"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/c0f82660-f4da-42ba-86ff-98fade629de3" alt="C# Logo" width="50" height="50">
+**Languages:** 
+
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/d65f20a1-893c-4ac2-805a-de67a82a44d1" alt="Python Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/a46cd09b-efb3-4411-a9da-69f65dd63533" alt="Java Logo" width="40" height="50"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/47094296-87e7-48ca-9993-211e8547a05c" alt="Assembly Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/efdf0aa2-ed31-4fcf-9788-867d56973a57" alt="OCaml Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1" alt="C Logo" width="45" height="50"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/c0f82660-f4da-42ba-86ff-98fade629de3" alt="C# Logo" width="50" height="50">
 
 
 
