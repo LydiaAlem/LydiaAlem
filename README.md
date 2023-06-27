@@ -17,7 +17,7 @@ Language & Tools:
 </a>
 <!-- Java -->
 <a href="https://www.java.com/">
-  <img src="https://raw.githubusercontent.com/LydiaAlem/images/main/images/java.svg.png" alt="Java Logo" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/LydiaAlem/images/java.svg.png" alt="Java Logo" width="100" height="100">
 </a>
 
 
