@@ -16,22 +16,15 @@ Language & Tools:
   <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="100" height="100">
 </a>
 <!-- Java -->
-![java svg](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/913ecc51-a805-4fd2-9d43-4e0ec7eef2a9)
-
-
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/913ecc51-a805-4fd2-9d43-4e0ec7eef2a9" alt="Java Logo" width="40" height="40">
 <!-- Assembly (x86-64) -->
-![assembly](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/684cd201-d871-4b41-8e46-a1726916af40)
-
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/684cd201-d871-4b41-8e46-a1726916af40" alt="Assembly Logo" width="40" height="40">
 <!-- Ocaml -->
-![ocaml](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/efdf0aa2-ed31-4fcf-9788-867d56973a57)
-
-
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/efdf0aa2-ed31-4fcf-9788-867d56973a57" alt="OCaml Logo" width="40" height="40">
 <!-- C -->
-![c svg](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1)
-
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1" alt="C Logo" width="40" height="40">
 <!-- C# -->
-![csharp](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1eb0cad9-2ea5-4824-914d-f290bd515c37)
-
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1eb0cad9-2ea5-4824-914d-f290bd515c37" alt="C# Logo" width="40" height="40">
 Software:
 
 
