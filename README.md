@@ -15,7 +15,7 @@
 
 
 
-**Software & Tools:** <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9e258919-6152-4959-81d6-b735d5478e66" alt="JIRA Logo" width="90" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/69c0bb67-ee5c-4328-a0b1-b0f33d1999ef" alt="Github Logo" width="50" height="50"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/4f35a8cc-da68-49f3-8cdc-f6ca0893988b" alt="Assembly Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/aba5e05b-5833-4b33-a54d-3637bbaa3a08" alt="C Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/92c9023d-4990-4674-8f64-07f6f3b87fe6" alt="Agile Logo" width="70" height="70">
+**Software & Tools:** <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/08818c00-a030-4291-9236-c188fa816d3d" alt="JIRA Logo" width="90" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/69c0bb67-ee5c-4328-a0b1-b0f33d1999ef" alt="Github Logo" width="50" height="50"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/4f35a8cc-da68-49f3-8cdc-f6ca0893988b" alt="Assembly Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/aba5e05b-5833-4b33-a54d-3637bbaa3a08" alt="C Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/bf801e65-8f81-4917-b573-bfd662fcf000" alt="Agile Logo" width="70" height="70">
 
 
 
