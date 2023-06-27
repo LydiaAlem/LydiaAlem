@@ -20,10 +20,7 @@
 
 
 
-
-
-
-![LydiaAlem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAlem&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![LydiaAlem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAlem&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 ---
 **Reach me on:**
