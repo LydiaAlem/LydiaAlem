@@ -17,7 +17,9 @@
 
 **Reach me on:**
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9c3046b7-20b4-4099-8d63-75f74d5b8b20" alt="JIRA Logo" width="90" height="40"> <img src="[https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8d779d77-2442-478d-bc65-f22cc401cabd](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/51d41f8d-eb17-4be3-87b5-5b9c8a0f9aef)" alt="Github Logo" width="70" height="70">
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9c3046b7-20b4-4099-8d63-75f74d5b8b20" alt="gmail Logo" width="90" height="40"> <img src="" alt="Github Logo" width="70" height="70">
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/30dd851c-9c80-4704-af24-86c4537f2d5a" alt="linkedIN Logo" width="90" height="40"> <img src="" alt="Github Logo" width="70" height="70">
+
 
 
 
