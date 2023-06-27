@@ -16,13 +16,7 @@
 ---
 **Reach me on:**
 
-
-
-![linkedin-icon-2048x2048-ya5g47j2](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920)
-
-![Gmail_icon_(2020) svg](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/157e971f-e246-475c-9727-9c527903555c)
-
-
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="gmail Logo" width="40" height="40"> 
 
 
 
