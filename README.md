@@ -17,10 +17,10 @@
 
 **Reach me on:**
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9c3046b7-20b4-4099-8d63-75f74d5b8b20" alt="gmail Logo" width="90" height="40"> <img src="" alt="Github Logo" width="70" height="70">
+[![Gmail Logo](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9c3046b7-20b4-4099-8d63-75f74d5b8b20)](#) [![GitHub Logo](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/4f35a8cc-da68-49f3-8cdc-f6ca0893988b)](#)
 
+[![LinkedIn Logo](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/30dd851c-9c80-4704-af24-86c4537f2d5a)](#) [![GitHub Logo](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/4f35a8cc-da68-49f3-8cdc-f6ca0893988b)](https://www.linkedin.com/in/lydia-alem-37b831260/)
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/30dd851c-9c80-4704-af24-86c4537f2d5a" alt="linkedIN Logo" width="90" height="40"> <img src="" alt="Github Logo" width="70" height="70">
 
 
 
