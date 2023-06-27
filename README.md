@@ -20,11 +20,10 @@
 
 ---
 **Reach me on:**
-<!-- gmail link: -->
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1bfc1009-37bd-4c12-a248-26dca92bf7b7" alt="Gmail Logo" width="53" height="40"> <a href="mailto:alem0046@umn.edu?subject=Link%20to%20Gmail&body=Here's%20the%20link%20to%20Gmail:%20https://www.gmail.com">
-  Send me an email! </a>
 
-<br>
-<!-- linkedIN link: -->
- <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="LinkedIn Logo" width="55" height="55"> <a href="https://www.linkedin.com/in/lydia-alem-37b831260/">
-  Connect with me on my Linked-In! </a>
+<a href="https://in.linkedin.com/in/piyushp7pravin">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:piyushpravin1998@gmail.com">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
