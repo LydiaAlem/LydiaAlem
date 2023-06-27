@@ -13,7 +13,7 @@
 
 <a href="https://www.example.com"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/d65f20a1-893c-4ac2-805a-de67a82a44d1" alt="python" width="40" height="40"></a>
 
-<a href="https://www.example.com"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/913ecc51-a805-4fd2-9d43-4e0ec7eef2a9" alt="java" width="40" height="70"></a>
+<a href="https://www.java.com/en/"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/913ecc51-a805-4fd2-9d43-4e0ec7eef2a9" alt="java" width="40" height="70"></a>
 
 <a href="https://www.example.com"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/684cd201-d871-4b41-8e46-a1726916af40" alt="assembly" width="40" height="40"></a>
 
