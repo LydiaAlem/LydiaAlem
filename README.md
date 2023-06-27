@@ -17,7 +17,7 @@
 **Reach me on:**
 <!-- gmail link: -->
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1bfc1009-37bd-4c12-a248-26dca92bf7b7" alt="Gmail Logo" width="53" height="40"> <a href="mailto:alem0046@umn.edu?subject=Link%20to%20Gmail&body=Here's%20the%20link%20to%20Gmail:%20https://www.gmail.com">
-  Send Gmail link to my email! </a>
+  Send me an email! </a>
 
 <br>
 <!-- linkedIN link: -->
