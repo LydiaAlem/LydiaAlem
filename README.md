@@ -6,7 +6,7 @@
 - 📍 I currently attend the University of Minnesota
 - 📚 I’m currently majoring in Math & Computer Science!
 - 👩🏽‍💻 I’m currently working as a Software Engineering Intern @ Bracco Medical Technologies
-- Pronouns: she/her
+- 🙂 Pronouns: she/her
 - ⚡ Fun fact: I love reading manhwas 💛
 
 ---
