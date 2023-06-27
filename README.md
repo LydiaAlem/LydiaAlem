@@ -12,7 +12,7 @@
 ---
 Language & Tools:
 ![Python-logo-notext svg](https://github.com/LydiaAlem/LydiaAlem/assets/107647071/76c999bd-9adb-4148-94e4-0591eff49a05)
-
+<img width="900" height="400" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/76c999bd-9adb-4148-94e4-0591eff49a05">
 Software:
 
 
