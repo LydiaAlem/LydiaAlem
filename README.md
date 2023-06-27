@@ -5,8 +5,8 @@
 
 <p>📍 I currently attend the University of Minnesota</p>
 <p>📚 I’m currently majoring in Math & Computer Science!</p>
-<p>👩🏽‍💻 - I’m currently working as a Software Engineering Intern @ Bracco Medical Technologies</p>
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/0b06c5af-5705-4694-ac57-7d68d77e9dc7" alt="Bracco_MedTech_LOGO" height="50" width="90">
+<p>👩🏽‍💻 - I’m currently working as a Software Engineering Intern @ Bracco Medical Technologies</p><img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/0b06c5af-5705-4694-ac57-7d68d77e9dc7" alt="Bracco_MedTech_LOGO" height="50" width="90">
+
 <p>😄 Pronouns: she/her</p>
 <p>⚡ Fun fact: I love reading manhwas 💛</p>
 
