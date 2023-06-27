@@ -18,7 +18,7 @@
 
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1bfc1009-37bd-4c12-a248-26dca92bf7b7" alt="gmail Logo" width="53" height="40"> 
 
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="linkedIN Logo" width="60" height="60"> 
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="linkedIN Logo" width="55" height="55"> 
 
 
 
