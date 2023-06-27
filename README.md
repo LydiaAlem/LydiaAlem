@@ -18,6 +18,8 @@
 **Reach me on:**
 
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9c3046b7-20b4-4099-8d63-75f74d5b8b20" alt="gmail Logo" width="90" height="40"> <img src="" alt="Github Logo" width="70" height="70">
+
+
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/30dd851c-9c80-4704-af24-86c4537f2d5a" alt="linkedIN Logo" width="90" height="40"> <img src="" alt="Github Logo" width="70" height="70">
 
 
