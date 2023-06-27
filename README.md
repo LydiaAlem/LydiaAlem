@@ -13,6 +13,8 @@
 
 **Software & Tools:** <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/9e258919-6152-4959-81d6-b735d5478e66" alt="JIRA Logo" width="90" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8d779d77-2442-478d-bc65-f22cc401cabd" alt="Github Logo" width="70" height="70"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/4f35a8cc-da68-49f3-8cdc-f6ca0893988b" alt="Assembly Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/aba5e05b-5833-4b33-a54d-3637bbaa3a08" alt="C Logo" width="40" height="40"> <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/92c9023d-4990-4674-8f64-07f6f3b87fe6" alt="Agile Logo" width="70" height="70">
 
+![LydiaAlem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAlem&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 ---
 **Reach me on:**
 <!-- gmail link: -->
@@ -23,9 +25,3 @@
 <!-- linkedIN link: -->
  <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/2edef10c-5498-4873-8033-78a423286920" alt="LinkedIn Logo" width="55" height="55"> <a href="https://www.linkedin.com/in/lydia-alem-37b831260/">
   Connect with me on my Linked-In! </a>
-
-
-
----
-
-![LydiaAlem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaAlem&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
