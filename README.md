@@ -21,9 +21,9 @@
 ---
 **Reach me on:**
 
-<a href="https://in.linkedin.com/in/piyushp7pravin">
+<a href="https://www.linkedin.com/in/lydia-alem-37b831260/">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com">
+  <a href="mailto:alem0046@umn.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
