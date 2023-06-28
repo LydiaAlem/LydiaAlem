@@ -21,8 +21,8 @@
 
 ---
 
-[Take a look at my resume :)](https://github.com/LydiaAlem/LydiaAlem/files/11889134/OFFICIAL_RESUME.pdf)
-
+**Resume:**
+[View it here :)](https://github.com/LydiaAlem/LydiaAlem/files/11889134/OFFICIAL_RESUME.pdf)
 
 ---
 **Reach me on:**
