@@ -21,7 +21,7 @@
 
 ---
 
-**Resume:**
+**📝Resume:**
 <br/>
 [View it here :)](https://github.com/LydiaAlem/LydiaAlem/files/11889134/OFFICIAL_RESUME.pdf)
 
