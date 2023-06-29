@@ -3,7 +3,7 @@
 <!--
 <img width="900" height="400" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1e88f391-999e-4326-87aa-fdec2e0ed29a">
 -->
-<img width="800" height="450" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/73f2b812-c365-49c0-8654-5c652643f18d">
+<img width="800" height="450" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1412f600-fc14-4565-9a00-7c718ad06eec">
 
 
 
