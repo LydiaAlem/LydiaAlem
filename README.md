@@ -1,7 +1,13 @@
 ### Hi there 👋 My name is Lydia Alem :)
 ---
-
+<!--
 <img width="900" height="400" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/1e88f391-999e-4326-87aa-fdec2e0ed29a">
+-->
+<img width="900" height="400" alt="Screenshot 2023-06-27 at 10 30 28 AM" src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8276afce-f487-4683-b38f-8a5cf0e7ea01">
+
+
+
+
 
 - 📍 I currently attend the University of Minnesota.
 - 🎓 I am studying Computer Science and Mathematics.
