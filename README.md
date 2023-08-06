@@ -12,7 +12,6 @@
 - 📍 I currently attend the University of Minnesota.
 - 🎓 I am studying Computer Science and Mathematics.
 - 👩🏽‍💻 I’m currently working as a Software Engineering Intern @ Bracco Medical Technologies!
-- 🙂 Pronouns: she/her
 - ⚡ Fun fact: I love reading manhwas (korean comic!)💛
 
 ---
