@@ -28,7 +28,9 @@
 
 **📝Resume:**
 <br/>
-[View it here :)](https://github.com/LydiaAlem/LydiaAlem/files/12270033/Resume2-4.pdf)
+[View it here :)](https://github.com/LydiaAlem/LydiaAlem/files/13790494/Resume.LA.pdf)
+
+
 
 ---
 **Reach me on:**
