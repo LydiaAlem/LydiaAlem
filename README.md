@@ -12,7 +12,7 @@
 - 📍 I currently attend the University of Minnesota.
 - 🎓 I am studying Computer Science and Mathematics.
 - 👩🏽‍💻 I previously interned at Bracco Medical Technologies as a Software Engineering Intern!
-- ⚡ Fun fact: I love reading manhwas (korean comic!)💛
+- 💛Fun fact: I love reading manhwas (korean comic!)
 
 ---
 **Languages:** 
