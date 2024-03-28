@@ -13,7 +13,6 @@
 - 🎓 I am studying Computer Science and Mathematics.
 - 💻 I will be interning as a SDE at Amazon this summer:)
 - 👩🏽‍💻 I previously interned at Bracco Medical Technologies as a Software Engineering Intern!
-- 💛 Fun fact: I love reading manhwas (korean comic!)
 
 ---
 **Languages:** 
