@@ -34,8 +34,7 @@
 
 **📝Resume:**
 <br/>
-[View it here :)](https://github.com/LydiaAlem/LydiaAlem/files/14670044/Resume2-9.pdf)
-
+[View it here :)](https://github.com/user-attachments/files/15879776/Resume2-10.pdf)
 
 
 **Reach me on:**
