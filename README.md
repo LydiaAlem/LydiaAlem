@@ -11,8 +11,7 @@
 
 - 📍 I currently attend the University of Minnesota.
 - 🎓 I am studying Computer Science and Mathematics.
-- 💻 I am currently interning as a Software Development Engineer at Amazon this summer:)
-- 👩🏽‍💻 I previously interned at Bracco Medical Technologies as a Software Engineering Intern!
+- 👩🏽‍💻 I previously interned at Amazon and Bracco Medical Technologies as a Software Engineering Interns!
 
 ---
 **Languages:** 
